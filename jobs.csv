@@ -1,0 +1,8 @@
+1095A_CRT_SEQ	/opt/1095a/bin/run1095A_seq.sh
+1095A_MTX	/opt/1095a/bin/1095_MTX_wrapper.sh -h foundation -w 1095A
+BATCH4	/opt/ab/bin/ab_batch4_2015.sh
+TMP_ENRLMT_2017	/opt/ab/bin/extract_current_tables_tmp.sh 2017
+TMP_ENRLMT_2017	/opt/ab/bin/extract_current_tables_tmp.sh 2017
+TMP_ENRLMT_2017	/opt/ab/bin/extract_current_tables_tmp.sh 2017
+QHP_ENRLMT_2018	/opt/ab/bin/calc_QHP_enrollment_facts.sh qhp 2018
+

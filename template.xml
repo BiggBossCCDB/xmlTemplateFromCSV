@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<job  stop_on_error="yes" title="{job_name}" process_class="JS_TEST_USER_AGENT_HADOOP">
+<script  language="shell">
+  <![CDATA[
+	{script_path}
+        ]]>
+</script>
+<run_time />
+</job>
